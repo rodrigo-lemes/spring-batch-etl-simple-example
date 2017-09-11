@@ -1,0 +1,2 @@
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/simple-etl-spring-batch/src/main/resources/job-config.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph>\r\n<element clazz\="JobModelElement" type\="job">\r\n<structure end\="1050" endstart\="1038" start\="799" startend\="837"/>\r\n<bounds height\="118" width\="177" x\="15" y\="17"/>\r\n</element>\r\n</graph>
+eclipse.preferences.version=1
