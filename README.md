@@ -4,3 +4,4 @@ This is a simple Spring Batch Application that uses XML to configure the applica
 With this application you will:
 
 - Read a person data and transform their salary (reduce 50%).
+- Perform data base persistence of these data.
