@@ -1,5 +1,5 @@
 # Spring Batch Application (XML)
-This is a simple Spring Batch Application that uses XML to configure the applicationo context (Data Source, processor, reader, writer, etc).
+This is a simple Spring Batch Application that uses XML to configure the application context (Data Source, processor, reader, writer, etc).
 
 With this application you will:
 
